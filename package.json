@@ -14,7 +14,7 @@
     "hapi": "^18.1.0",
     "hapi-cors": "^1.0.3",
     "joi": "^14.3.1",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "nodemailer": "^6.4.2"
   },
   "devDependencies": {
